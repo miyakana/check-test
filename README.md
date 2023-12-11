@@ -25,3 +25,4 @@ Laravel環境構築
 URL
 . 開発環境：[http://localhost/](http://localhost/)
 .phpMyAdmin:[http://localhost:8080/](http://localhost:8080/)http://localhost:8080/
+# check-test
